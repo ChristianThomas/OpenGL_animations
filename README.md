@@ -1,2 +1,2 @@
 # OpenGL_animations-
-C++ application illustration OpenGl
+C++ application illustrating OpenGl
